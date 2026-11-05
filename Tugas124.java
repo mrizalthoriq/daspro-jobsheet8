@@ -21,5 +21,6 @@ public class Tugas124 {
 
             System.out.println("Total angka tercetak: " + totalN);
         }
+        sc.close();
     }    
 }
